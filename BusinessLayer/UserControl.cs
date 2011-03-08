@@ -8,8 +8,8 @@ namespace BusinessLayer
 {
     class UserControl
     {
-        private Regex userRegex = new Regex("");
-        private Regex passwordRegex = new Regex("");
+        private Regex userRegex = new Regex("^[a-zA-Z][a-zA-Z0-9]*$");
+        private Regex passwordRegex = new Regex("[a-zA-Z0-9]*$");
 
         public int RegisterUser(String username, String password)
         {
@@ -41,11 +41,11 @@ namespace BusinessLayer
         {
             if (userRegex.IsMatch(username) && passwordRegex.IsMatch(password))
             {
-                return 0;
+                return 1;
             }
             else
             {
-                return 1;
+                return 0;
             }
         }
     }
