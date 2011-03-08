@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/Event.NET/BusinessLayer
+END
+UserControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/Event.NET/BusinessLayer/UserControl.cs
+END
+EventControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/Event.NET/BusinessLayer/EventControl.cs
+END
+Verification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/Event.NET/BusinessLayer/Verification.cs
+END
+BusinessLayer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/Event.NET/BusinessLayer/BusinessLayer.csproj
+END
+Controller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/trunk/Event.NET/BusinessLayer/Controller.cs
+END
+Error.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/Event.NET/BusinessLayer/Error.cs
+END

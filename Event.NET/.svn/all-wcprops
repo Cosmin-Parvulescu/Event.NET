@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/Event.NET/Event.NET
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/Event.NET/Event.NET/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/Event.NET/Event.NET/Web.config
+END
+Event.NET.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/Event.NET/Event.NET/Event.NET.csproj
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/Event.NET/Event.NET/Web.Debug.config
+END
