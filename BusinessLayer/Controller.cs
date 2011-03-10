@@ -20,15 +20,6 @@ namespace BusinessLayer
             }
         }
 
-        private String loggedInUser;
-        public String LoggedInuser
-        {
-            get
-            {
-                return loggedInUser;
-            }
-        }
-
         private UserControl userControl;
 
         private Controller()
@@ -46,19 +37,18 @@ namespace BusinessLayer
         {
             if (Verification.IsNotScript(username) && Verification.IsNotScript(password))
             {
-                if (userControl.RegisterUser(username, password) == 1)
+                if (userControl.RegisterUser(username, password) == 0)
                 {
-                    loggedInUser = username;
-                    return 1;
+                    return 0;
                 }
                 else
                 {
-                    return 0;
+                    return 1;
                 }
             }
             else
             {
-                return 0;
+                return 1;
             }
         }
 
@@ -72,19 +62,18 @@ namespace BusinessLayer
         {
             if (Verification.IsNotScript(username) && Verification.IsNotScript(password))
             {
-                if (userControl.LogIn(username, password) == 1)
+                if (userControl.LogIn(username, password) == 0)
                 {
-                    loggedInUser = username;
-                    return 1;
+                    return 0;
                 }
                 else
                 {
-                    return 0;
+                    return 1;
                 }
             }
             else
             {
-                return 0;
+                return 1;
             }
         }
 

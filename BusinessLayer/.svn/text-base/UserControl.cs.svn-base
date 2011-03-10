@@ -14,21 +14,21 @@ namespace BusinessLayer
         public int RegisterUser(String username, String password)
         {
             // Need DAL here
-            if(Validate(username, password) == 1)
+            if(Validate(username, password) == 0)
             {
-                return 1;
+                return 0;
             }
-            return 0;
+            return 1;
         }
 
         public int LogIn(String username, String password)
         {
             // Need DAL here
-            if (Validate(username, password) == 1)
+            if (Validate(username, password) == 0)
             {
-                return 1;
+                return 0;
             }
-            return 0;
+            return 1;
         }
 
         /// <summary>
@@ -36,16 +36,16 @@ namespace BusinessLayer
         /// </summary>
         /// <param name="username">Allows dashes, underscore, lowercase letters, uppercase letters and numbers [must start with letter]</param>
         /// <param name="password">Allows same as username but with additional characters</param>
-        /// <returns>1 - pass | 0 - fail</returns>
+        /// <returns>0 - pass | 1 - fail</returns>
         private int Validate(String username, String password)
         {
             if (userRegex.IsMatch(username) && passwordRegex.IsMatch(password))
             {
-                return 1;
+                return 0;
             }
             else
             {
-                return 0;
+                return 1;
             }
         }
     }
