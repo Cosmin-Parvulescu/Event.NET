@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer
+END
+CreateEvent.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/CreateEvent.aspx
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/Web.config
+END
+CreateEvent.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/CreateEvent.aspx.designer.cs
+END
+LogIn.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/LogIn.aspx
+END
+CreateEvent.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/Event.NET/PresentationLayer/CreateEvent.aspx.cs
+END
+LogIn.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/LogIn.aspx.designer.cs
+END
+LogIn.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10/trunk/Event.NET/PresentationLayer/LogIn.aspx.cs
+END
+RegisterUser.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/RegisterUser.aspx
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/Default.aspx
+END
+RegisterUser.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/RegisterUser.aspx.designer.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/Web.Release.config
+END
+Default.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/Default.aspx.designer.cs
+END
+RegisterUser.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/RegisterUser.aspx.cs
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10/trunk/Event.NET/PresentationLayer/Default.aspx.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/Web.Debug.config
+END
+PresentationLayer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/Event.NET/PresentationLayer/PresentationLayer.csproj
+END
