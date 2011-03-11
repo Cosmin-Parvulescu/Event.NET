@@ -1,0 +1,18 @@
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\TutorialTest.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\TutorialTest.pdb
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\obj\Debug\TutorialTest.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\obj\Debug\TutorialTest.pdb
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\BusinessLayer.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\BusinessLayer.pdb
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\DataAccessLayer.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\DataAccessLayer.pdb
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\bin\TutorialTest.dll
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\bin\TutorialTest.pdb
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\obj\Debug\TutorialTest.dll
+C:\Users\Cos\Desktop\Event.NET\PresentationLayer\obj\Debug\TutorialTest.pdb

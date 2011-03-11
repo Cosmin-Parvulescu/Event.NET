@@ -1,0 +1,5 @@
+c:\users\qutory\documents\visual studio 2010\Projects\TutorialTest\TutorialTest\bin\TutorialTest.dll
+c:\users\qutory\documents\visual studio 2010\Projects\TutorialTest\TutorialTest\bin\TutorialTest.pdb
+c:\users\qutory\documents\visual studio 2010\Projects\TutorialTest\TutorialTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\qutory\documents\visual studio 2010\Projects\TutorialTest\TutorialTest\obj\Debug\TutorialTest.dll
+c:\users\qutory\documents\visual studio 2010\Projects\TutorialTest\TutorialTest\obj\Debug\TutorialTest.pdb

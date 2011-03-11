@@ -21,10 +21,12 @@ namespace BusinessLayer
         }
 
         private UserControl userControl;
+        private EventControl eventControl;
 
         private Controller()
         {
             userControl = new UserControl();
+            eventControl = new EventControl();
         }
 
         /// <summary>
@@ -79,7 +81,24 @@ namespace BusinessLayer
 
         public int CreateEvent(String username, String name, String location, String datetime)
         {
-            return 0;
+            if (Verification.IsNotScript(name) &&
+                Verification.IsNotScript(location) &&
+                Verification.IsNotScript(datetime))
+            {
+                if (eventControl.CreateEvent(username, name, location, datetime) == 0)
+                {
+                    return 0;
+                }
+                else
+                {
+                    return 1;
+                }
+            }
+            else
+            {
+                return 1;
+            }
+
         }
 
         public String GetError(int code)

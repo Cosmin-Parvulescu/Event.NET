@@ -1,0 +1,10 @@
+C:\Users\Qutory\Documents\Visual Studio 2010\Projects\TutorialTest\TutorialTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Qutory\Documents\Visual Studio 2010\Projects\TutorialTest\TutorialTest\obj\Debug\TutorialTest.dll
+C:\Users\Qutory\Documents\Visual Studio 2010\Projects\TutorialTest\TutorialTest\obj\Debug\TutorialTest.pdb
+C:\Users\Qutory\Documents\Visual Studio 2010\Projects\TutorialTest\TutorialTest\bin\TutorialTest.dll
+C:\Users\Qutory\Documents\Visual Studio 2010\Projects\TutorialTest\TutorialTest\bin\TutorialTest.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\TutorialTest.dll
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\bin\TutorialTest.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\obj\Debug\TutorialTest.dll
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 1\PL - Alex\TutorialTest\obj\Debug\TutorialTest.pdb
