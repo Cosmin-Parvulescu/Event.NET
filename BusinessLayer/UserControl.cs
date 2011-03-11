@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
+using DataAccessLayer;
+
 namespace BusinessLayer
 {
     class UserControl
@@ -16,7 +18,14 @@ namespace BusinessLayer
             // Need DAL here
             if(Validate(username, password) == 0)
             {
-                return 0;
+                if (DataAccess.Instance.AddUser(username, password) == 0)
+                {
+                    return 0;
+                }
+                else
+                {
+                    return 1;
+                }
             }
             return 1;
         }
@@ -26,7 +35,14 @@ namespace BusinessLayer
             // Need DAL here
             if (Validate(username, password) == 0)
             {
-                return 0;
+                if (DataAccess.Instance.LogIn(username, password) == 0)
+                {
+                    return 0;
+                }
+                else
+                {
+                    return 1;
+                }
             }
             return 1;
         }

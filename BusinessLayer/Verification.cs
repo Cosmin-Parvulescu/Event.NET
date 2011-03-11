@@ -9,6 +9,7 @@ namespace BusinessLayer
     class Verification
     {
         static private String RegExStandard = "";
+        static private String DateTimeFormat = "yyyy-MM-dd HH:mm";
 
         static public bool IsStandard(String value)
         {
@@ -29,5 +30,24 @@ namespace BusinessLayer
 
             return true;
         }
+
+        /// <summary>
+        /// Checks if the input string is in the right date & time format
+        /// </summary>
+        /// <param name="value">Contains the date & time as string</param>
+        /// <returns>True - correct format | false - incorrect format</returns>
+        static public bool IsDateTime(String value)
+        {
+            try
+            {
+                DateTime result = DateTime.ParseExact(value, Verification.DateTimeFormat, null);
+                return true;
+            }
+            catch (FormatException e)
+            {
+                return false;
+            }
+        }
+
     }
 }

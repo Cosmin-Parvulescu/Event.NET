@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Event.NET")]
+[assembly: AssemblyTitle("PresentationLayer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("Event.NET")]
+[assembly: AssemblyProduct("PresentationLayer")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("be1eff61-de63-47e2-b3fd-d9ac6aebf9cd")]
+[assembly: Guid("1c16c1d9-2acb-4d30-8c7b-0c6ebd5c5836")]
 
 // Version information for an assembly consists of the following four values:
 //

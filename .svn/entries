@@ -1,14 +1,14 @@
 10
 
 dir
-2
+7
 https://event-net.googlecode.com/svn/trunk/Event.NET
 https://event-net.googlecode.com/svn
 
 
 
-2011-03-08T13:40:23.744321Z
-2
+2011-03-10T11:49:11.671271Z
+7
 Cosmin.Parvulescu@gmail.com
 
 
@@ -28,7 +28,7 @@ Cosmin.Parvulescu@gmail.com
 
 Event.NET.sln
 file
-3
+
 
 
 
@@ -65,4 +65,11 @@ dir
 
 BusinessLayer
 dir
+
+DataAccessLayer
+dir
+
+
+
+add
 

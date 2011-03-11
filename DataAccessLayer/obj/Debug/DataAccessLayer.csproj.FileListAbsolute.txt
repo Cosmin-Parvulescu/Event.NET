@@ -1,0 +1,5 @@
+C:\Users\Cos\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cos\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cos\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cos\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

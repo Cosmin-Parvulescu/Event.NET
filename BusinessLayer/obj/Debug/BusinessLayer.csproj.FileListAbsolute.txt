@@ -1,0 +1,7 @@
+C:\Users\Cos\Event.NET\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Cos\Event.NET\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Cos\Event.NET\BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Event.NET\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Cos\Event.NET\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Cos\Event.NET\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cos\Event.NET\BusinessLayer\bin\Debug\DataAccessLayer.pdb
