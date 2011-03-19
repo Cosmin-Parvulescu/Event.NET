@@ -25,3 +25,25 @@ C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Members\Cosmin\Event.NET\Pres
 C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Members\Cosmin\Event.NET\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Members\Cosmin\Event.NET\PresentationLayer\obj\Debug\TutorialTest.dll
 C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Members\Cosmin\Event.NET\PresentationLayer\obj\Debug\TutorialTest.pdb
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\TutorialTest.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\TutorialTest.pdb
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\obj\Debug\TutorialTest.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\obj\Debug\TutorialTest.pdb
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\ObjectCL.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\PresentationLayer\bin\ObjectCL.pdb
+C:\Users\Cos\Event.NET\PresentationLayer\bin\TutorialTest.dll
+C:\Users\Cos\Event.NET\PresentationLayer\bin\TutorialTest.pdb
+C:\Users\Cos\Event.NET\PresentationLayer\bin\BusinessLayer.dll
+C:\Users\Cos\Event.NET\PresentationLayer\bin\ObjectCL.dll
+C:\Users\Cos\Event.NET\PresentationLayer\bin\DataAccessLayer.dll
+C:\Users\Cos\Event.NET\PresentationLayer\bin\BusinessLayer.pdb
+C:\Users\Cos\Event.NET\PresentationLayer\bin\ObjectCL.pdb
+C:\Users\Cos\Event.NET\PresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\Cos\Event.NET\PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Event.NET\PresentationLayer\obj\Debug\TutorialTest.dll
+C:\Users\Cos\Event.NET\PresentationLayer\obj\Debug\TutorialTest.pdb

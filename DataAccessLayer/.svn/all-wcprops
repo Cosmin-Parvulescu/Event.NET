@@ -6,12 +6,12 @@ END
 DataAccess.cs
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/!svn/ver/8/trunk/Event.NET/DataAccessLayer/DataAccess.cs
+V 62
+/svn/!svn/ver/11/trunk/Event.NET/DataAccessLayer/DataAccess.cs
 END
 DataAccessLayer.csproj
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/!svn/ver/8/trunk/Event.NET/DataAccessLayer/DataAccessLayer.csproj
+V 71
+/svn/!svn/ver/11/trunk/Event.NET/DataAccessLayer/DataAccessLayer.csproj
 END

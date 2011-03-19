@@ -1,0 +1,5 @@
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\bin\Debug\ObjectCL.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\bin\Debug\ObjectCL.pdb
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\obj\Debug\ObjectCL.dll
+C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\obj\Debug\ObjectCL.pdb

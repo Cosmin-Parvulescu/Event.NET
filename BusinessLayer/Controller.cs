@@ -7,6 +7,7 @@ namespace BusinessLayer
 {
     public class Controller
     {
+
         private static Controller instance;
         public static Controller Instance
         {
