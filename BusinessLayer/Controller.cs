@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using ObjectCL;
 
 namespace BusinessLayer
 {
@@ -30,77 +31,107 @@ namespace BusinessLayer
             eventControl = new EventControl();
         }
 
-        /// <summary>
-        /// Register a user in the database
-        /// </summary>
-        /// <param name="username">Username</param>
-        /// <param name="password">Password</param>
-        /// <returns>1 - Registration Succesfull | 0 - Registration failed</returns>
-        public int RegisterUser(String username, String password)
+               
+        public bool RegisterUser(User us)
         {
-            if (Verification.IsNotScript(username) && Verification.IsNotScript(password))
-            {
-                if (userControl.RegisterUser(username, password) == 0)
-                {
-                    return 0;
-                }
-                else
-                {
-                    return 1;
-                }
-            }
-            else
-            {
-                return 1;
-            }
+           return userControl.RegisterUser(us);                
         }
 
-        /// <summary>
-        /// Checks the provided user credentials
-        /// </summary>
-        /// <param name="username">Username</param>
-        /// <param name="password">Password</param>
-        /// <returns>1 - The credentials passed | 0 - The credentials failed </returns>
-        public int LogIn(String username, String password)
+        public bool LogIn(User us)
         {
-            if (Verification.IsNotScript(username) && Verification.IsNotScript(password))
-            {
-                if (userControl.LogIn(username, password) == 0)
-                {
-                    return 0;
-                }
-                else
-                {
-                    return 1;
-                }
-            }
-            else
-            {
-                return 1;
-            }
+            return userControl.LogIn(us);
         }
 
-        public int CreateEvent(String username, String name, String location, String datetime)
+        public bool UpdateUser(User user)
         {
-            if (Verification.IsNotScript(name) &&
-                Verification.IsNotScript(location) &&
-                Verification.IsNotScript(datetime))
-            {
-                if (eventControl.CreateEvent(username, name, location, datetime) == 0)
-                {
-                    return 0;
-                }
-                else
-                {
-                    return 1;
-                }
-            }
-            else
-            {
-                return 1;
-            }
+            return userControl.Update(user);
+        }
+
+        public User GetUser(String username)
+        {
+            return userControl.GetUser(username);
+        }
+
+        public User GetUser(User us)
+        {
+            return userControl.GetUser(us.Username);
+        }
+
+        public List<User> GetUsers(Event ev, Byte b)
+        {
+            return userControl.GetUsers(ev, b);
+        }
+
+        
+        public bool UserExists(User us) 
+        {
+            return userControl.UserExists(us);
+        }
+
+
+
+        public bool CreateEvent(Event ev)
+        {
+            return eventControl.CreateEvent(ev);
+         }
+
+
+        public bool UpdateEvent(Event ev)
+        {
+            return eventControl.UpdateEvent(ev);   
+            
+        }
+
+        public bool DeleteEvent(Event ev)
+        {
+            return eventControl.DeleteEvent(ev);
 
         }
+
+
+        public Event GetEvent(int id)
+        {
+            return eventControl.GetEvent(id);
+        }
+
+        public Event GetEvent(Event ev)
+        {
+            return eventControl.GetEvent(ev.Id);
+        }
+
+        public List<Event> GetEvents(User us, Byte b)
+        {
+            return  eventControl.GetEvents(us,b);
+        }
+
+
+        public bool EventExists(Event ev)
+        {
+            return eventControl.EventExists(ev);
+        }
+
+        public bool LocationVoted(User us, Event ev) {
+            return eventControl.LocationVoted(us,ev);
+        
+        }
+        public bool DateVoted(User us, Event ev)
+        {
+            return eventControl.DateVoted(us, ev);
+
+        }
+        public bool TimeVoted(User us, Event ev)
+        {
+            return eventControl.TimeVoted(us, ev);
+
+        }
+        public bool VoteLocation(User us, Event ev)
+        {
+            return eventControl.VoteLocation(us, ev);
+
+        } 
+
+
+
 
         public String GetError(int code)
         {

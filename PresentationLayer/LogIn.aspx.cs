@@ -4,10 +4,10 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-
+using ObjectCL;
 using BusinessLayer;
 
-namespace TutorialTest
+namespace PresentationLayer
 {
     public partial class LogIn : System.Web.UI.Page
     {
@@ -18,25 +18,22 @@ namespace TutorialTest
     
         protected void Login(object sender, EventArgs e)
         {
-            int error = 0;
-            String errorMessage = "no error";
+            User us;
 
             if ((username.Text != "") && (password.Text != ""))
             {
-
-                error = Controller.Instance.LogIn(username.Text, password.Text);
-            }
-
-            if (error != 0)
-            {
-                errorMessage = Controller.Instance.GetError(error);
-            }
-            else
-            {
+                us = new User();
+                us.Username = username.Text;
+                us.Password = password.Text;
+                Controller.Instance.LogIn(us);
+                
+           
                 HttpCookie cookie = new HttpCookie("eventnet");
                 Response.Cookies.Add(cookie);
                 cookie["eventnet-username"] = username.Text;
                 cookie.Expires = DateTime.Now.AddMonths(1);
+
+                Response.Redirect("Profile.aspx");
             }
         }
     }

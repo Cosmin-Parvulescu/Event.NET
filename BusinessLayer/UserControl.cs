@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using ObjectCL;
 
 using DataAccessLayer;
 
@@ -13,39 +14,45 @@ namespace BusinessLayer
         private Regex userRegex = new Regex("^[a-zA-Z][a-zA-Z0-9]*$");
         private Regex passwordRegex = new Regex("[a-zA-Z0-9]*$");
 
-        public int RegisterUser(String username, String password)
+        public bool RegisterUser(User us)
         {
-            // Need DAL here
-            if(Validate(username, password) == 0)
-            {
-                if (DataAccess.Instance.AddUser(username, password) == 0)
-                {
-                    return 0;
-                }
-                else
-                {
-                    return 1;
-                }
-            }
-            return 1;
+            return DataAccess.Instance.AddUser(us);                              
         }
 
-        public int LogIn(String username, String password)
+        public bool LogIn(User us)
         {
-            // Need DAL here
-            if (Validate(username, password) == 0)
-            {
-                if (DataAccess.Instance.LogIn(username, password) == 0)
-                {
-                    return 0;
-                }
-                else
-                {
-                    return 1;
-                }
-            }
-            return 1;
+           return DataAccess.Instance.LogIn(us);
+          
         }
+
+        
+        public bool Update(User user)
+        {
+          return DataAccess.Instance.UpdateUser(user); 
+           
+        }
+
+        public User GetUser(String username)
+        {
+
+            return DataAccess.Instance.GetUser(username);
+            
+        }
+
+        public List<User> GetUsers(Event ev, Byte b) {
+
+            return DataAccess.Instance.GetUsers(ev,b);      
+           
+        }
+
+        public bool UserExists(User us)
+        {
+
+            return DataAccess.Instance.UserExists(us);      
+          
+        }
+
+
 
         /// <summary>
         /// Checks for proper username and password input

@@ -4,12 +4,13 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using ObjectCL;
 
 using BusinessLayer;
 
-namespace TutorialTest
+namespace PresentationLayer
 {
-    public partial class HelloWeb : System.Web.UI.Page
+    public partial class RegisterUser : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -18,21 +19,20 @@ namespace TutorialTest
 
         protected void Create(object sender, EventArgs e)
         {
-            int error = 0;
-            String errorMessage = "no error";
-
             if ((password.Text != "") && (password.Text == pconfirm.Text))
             {
-                error = Controller.Instance.RegisterUser(username.Text, password.Text);
+                User u = new User();
+                u.Username = username.Text;
+                u.Password = password.Text;
+                u.Firstname = firstname.Text;
+                u.Lastname = lastname.Text;
+                u.Email = email.Text;
+
+                Controller.Instance.RegisterUser(u);
             }
             else
             {
-                this.message.InnerHtml += "Password does not match. Please try again. <br />";
-            }
-
-            if (error != 0)
-            {
-                errorMessage = Controller.Instance.GetError(error);
+                this.debugMessage.InnerHtml += "Password does not match. Please try again. <br />";
             }
         }
     }

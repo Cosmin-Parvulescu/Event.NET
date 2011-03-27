@@ -23,8 +23,7 @@ namespace DataAccessLayer
             }
         }
 
-        //private String conString = "Data Source=.\\SQLEXPRESS;Initial Catalog=EventDotNet;User Id=whatever;Password=;";
-        private String conString = "Data Source=localhost;Initial Catalog=EventDotNet;User Id=whatever;Password=;";
+        private String conString = "Data Source=.\\SQLEXPRESS;Initial Catalog=EventDotNet;User Id=whatever;Password=;";
         private SqlConnection con;
 
         private DataAccess()

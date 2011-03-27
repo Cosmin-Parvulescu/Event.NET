@@ -7,11 +7,14 @@ namespace ObjectCL
 {
     public class Event
     {
-        private int id;
-        private string name;
+        private Int32 id;
+        private String name;
         private List<Location> locations;
-        private List<DateTime> dates;
-        private List<DateTime> times;
+
+        // yyyy-mm-dd
+        private List<String> dates;
+        // hh:mm
+        private List<String> times;
         private User admin;
         private bool visibility;
 
@@ -19,7 +22,7 @@ namespace ObjectCL
         {
         }
 
-        public Event(int id, string name, List<Location> locations, List<DateTime> dates, List<DateTime> times, User admin, bool visibility)
+        public Event(Int32 id, String name, List<Location> locations, List<String> dates, List<String> times, User admin, bool visibility)
         {
             this.id = id;
             this.name = name;
@@ -30,18 +33,18 @@ namespace ObjectCL
             this.visibility = visibility;
         }
 
-        public override string ToString()
+        public override String ToString()
         {
             return base.ToString();
         }
 
-        public int Id
+        public Int32 Id
         {
             get { return id; }
             set { id = value; }
         }
 
-        public string Name
+        public String Name
         {
             get { return name; }
             set { name = value; }
@@ -53,13 +56,13 @@ namespace ObjectCL
             set { locations = value; }
         }
 
-        public List<DateTime> Dates
+        public List<String> Dates
         {
             get { return dates; }
             set { dates = value; }
         }
 
-        public List<DateTime> Times
+        public List<String> Times
         {
             get { return times; }
             set { times = value; }

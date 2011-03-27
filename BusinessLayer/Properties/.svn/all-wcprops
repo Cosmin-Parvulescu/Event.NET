@@ -9,15 +9,3 @@ svn:wc:ra_dav:version-url
 V 72
 /svn/!svn/ver/3/trunk/Event.NET/BusinessLayer/Properties/AssemblyInfo.cs
 END
-Settings.settings
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/!svn/ver/11/trunk/Event.NET/BusinessLayer/Properties/Settings.settings
-END
-Settings.Designer.cs
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svn/!svn/ver/11/trunk/Event.NET/BusinessLayer/Properties/Settings.Designer.cs
-END

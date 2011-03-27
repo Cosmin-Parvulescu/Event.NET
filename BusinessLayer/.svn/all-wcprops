@@ -24,14 +24,14 @@ END
 BusinessLayer.csproj
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/!svn/ver/11/trunk/Event.NET/BusinessLayer/BusinessLayer.csproj
+V 66
+/svn/!svn/ver/8/trunk/Event.NET/BusinessLayer/BusinessLayer.csproj
 END
 Controller.cs
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/!svn/ver/11/trunk/Event.NET/BusinessLayer/Controller.cs
+V 59
+/svn/!svn/ver/8/trunk/Event.NET/BusinessLayer/Controller.cs
 END
 Error.cs
 K 25

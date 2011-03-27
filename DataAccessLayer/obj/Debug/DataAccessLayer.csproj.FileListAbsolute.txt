@@ -10,3 +10,41 @@ C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\DataAccessLayer\obj\Debug\DataAccessLa
 C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.dll
 C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.pdb
+C:\Users\Qutory\Documents\My Dropbox\PSE2 - Event.NET\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Qutory\Documents\My Dropbox\PSE2 - Event.NET\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Qutory\Documents\My Dropbox\PSE2 - Event.NET\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.pdb
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.dll
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.pdb
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.dll
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.pdb
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Johanna\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.dll
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.dll
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\bin\Debug\ObjectCL.pdb
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

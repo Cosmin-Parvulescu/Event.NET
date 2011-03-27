@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TutorialTest {
+namespace PresentationLayer {
     
     
-    public partial class HelloWeb {
+    public partial class RegisterUser {
         
         /// <summary>
         /// form1 control.
@@ -49,6 +49,33 @@ namespace TutorialTest {
         protected global::System.Web.UI.WebControls.TextBox pconfirm;
         
         /// <summary>
+        /// firstname control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox firstname;
+        
+        /// <summary>
+        /// lastname control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox lastname;
+        
+        /// <summary>
+        /// email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox email;
+        
+        /// <summary>
         /// Register control.
         /// </summary>
         /// <remarks>
@@ -58,12 +85,12 @@ namespace TutorialTest {
         protected global::System.Web.UI.WebControls.Button Register;
         
         /// <summary>
-        /// message control.
+        /// debugMessage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl message;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl debugMessage;
     }
 }

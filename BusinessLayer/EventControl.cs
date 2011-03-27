@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using ObjectCL;
 
 using DataAccessLayer;
 
@@ -17,24 +18,59 @@ namespace BusinessLayer
         /// <param name="location">Location of event</param>
         /// <param name="datetime">Date & time of event (must be in format 'yyyy-MM-dd HH:mm')</param>
         /// <returns>0 - Successfull creation | 1 - Errors occured</returns>
-        public int CreateEvent(String username, String name, String location, String datetime)
+        public bool CreateEvent(Event ev)
         {
-            if (this.Validate(username, name, location, datetime) == 0)
-            {
-                if (DataAccess.Instance.AddEvent(name, location, datetime, username) == 0)
-                {
-                    return 0;
-                }
-                else
-                {
-                    return 1;
-                }
-            }
-            else
-            {
-                return 1;
-            }
+           return DataAccess.Instance.AddEvent(ev);
+            
         }
+
+        public bool UpdateEvent(Event ev)
+        {
+            return DataAccess.Instance.UpdateEvent(ev);
+         
+        }
+
+        public bool  DeleteEvent(Event ev) {
+           return DataAccess.Instance.DeleteEvent(ev);
+          
+        }
+        
+        public Event GetEvent(int id) {
+
+            return  DataAccess.Instance.GetEvent(id);
+         
+        }
+        
+        public List<Event> GetEvents(User us, Byte b) {
+            return  DataAccess.Instance.GetEvents(us,b);
+                 
+        }
+
+        public bool EventExists(Event ev) 
+        {
+            return  DataAccess.Instance.EventExists(ev);
+        }
+
+        public bool LocationVoted(User us, Event ev)
+        {
+            return DataAccess.Instance.LocationVoted(us, ev);
+
+        }
+        public bool DateVoted(User us, Event ev)
+        {
+            return DataAccess.Instance.DateVoted(us, ev);
+
+        }
+        public bool TimeVoted(User us, Event ev)
+        {
+            return DataAccess.Instance.TimeVoted(us, ev);
+
+        }
+
+        public bool VoteLocation(User us, Event ev) {
+            return DataAccess.Instance.VoteLocation(us, ev);
+        }
+        
 
         /// <summary>
         /// Checks if datetime string has correct date & time format

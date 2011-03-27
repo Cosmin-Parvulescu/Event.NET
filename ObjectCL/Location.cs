@@ -7,16 +7,16 @@ namespace ObjectCL
 {
     public class Location
     {
-        private string locationPlace;
-        private string country;
-        private string city;
-        private string address;
+        private String locationPlace;
+        private String country;
+        private String city;
+        private String address;
 
         public Location()
         {
         }
 
-        public Location(string locationPlace, string country, string city, string address)
+        public Location(String locationPlace, String country, String city, String address)
         {
             this.locationPlace = locationPlace;
             this.country = country;
@@ -24,30 +24,30 @@ namespace ObjectCL
             this.address = address;
         }
 
-        public override string ToString()
+        public override String ToString()
         {
             return base.ToString();
         }
 
-        public string LocationPlace
+        public String LocationPlace
         {
             get { return locationPlace; }
             set { locationPlace = value; }
         }
 
-        public string Country
+        public String Country
         {
             get { return country; }
             set { country = value; }
         }
 
-        public string City
+        public String City
         {
             get { return city; }
             set { city = value; }
         }
 
-        public string Address
+        public String Address
         {
             get { return address; }
             set { address = value; }

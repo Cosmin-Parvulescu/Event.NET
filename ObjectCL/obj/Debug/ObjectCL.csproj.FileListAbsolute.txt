@@ -3,3 +3,20 @@ C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\bin\Debug\ObjectCL.pdb
 C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\obj\Debug\ObjectCL.dll
 C:\Users\Johanna\SDU\SS2011\PSE\Event.NET\ObjectCL\obj\Debug\ObjectCL.pdb
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\obj\Debug\ObjectCL.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\obj\Debug\ObjectCL.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\bin\Debug\ObjectCL.dll
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\bin\Debug\ObjectCL.pdb
+C:\Users\Cos\Documents\My Dropbox\PSE2 - Event.Net\Iteration 2\Nightly Build\Event.NET\ObjectCL\obj\Debug\ObjectCL.pdb
+C:\Users\ACER\Desktop\Event.NET\ObjectCL\bin\Debug\ObjectCL.dll
+C:\Users\ACER\Desktop\Event.NET\ObjectCL\bin\Debug\ObjectCL.pdb
+C:\Users\ACER\Desktop\Event.NET\ObjectCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Event.NET\ObjectCL\obj\Debug\ObjectCL.dll
+C:\Users\ACER\Desktop\Event.NET\ObjectCL\obj\Debug\ObjectCL.pdb
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\ObjectCL\bin\Debug\ObjectCL.dll
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\ObjectCL\bin\Debug\ObjectCL.pdb
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\ObjectCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\ObjectCL\obj\Debug\ObjectCL.dll
+C:\Users\ACER\Desktop\Nightly Build\Event.NET\ObjectCL\obj\Debug\ObjectCL.pdb

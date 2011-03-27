@@ -45,7 +45,7 @@ namespace BusinessLayer
             }
             catch (FormatException e)
             {
-                return false;
+                throw e;
             }
         }
 
